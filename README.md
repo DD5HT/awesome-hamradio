@@ -1,5 +1,8 @@
 # awesome-hamradio
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+**A collection of the best open source hamradio projects!**
 
 ## Software
 
@@ -8,6 +11,9 @@
 + [UniPager](https://github.com/rwth-afu/UniPager) Universal POCSAG transmitter controller written in Rust.
 
 ### SDR
+
++ [GNU Radio](https://github.com/gnuradio/gnuradio) a software development toolkit that provides signal processing blocks to implement software radios.
+
 
 ### Antennas
 
@@ -32,4 +38,4 @@
 ## Hardware
 
 + [MMDVM](https://github.com/g4klx/MMDVM) Multi-Mode Digital Voice Modem
-  + [MMDVM_HS_HAT](https://github.com/mathisschmieder/MMDVM_HS_Hat) MMDVM_HS Hat for the Raspberry Pi (Zero)
+  + [MMDVM_HS_HAT](https://github.com/mathisschmieder/MMDVM_HS_Hat) for the Raspberry Pi (Zero)
