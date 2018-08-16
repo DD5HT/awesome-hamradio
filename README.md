@@ -17,6 +17,9 @@
 + [linhpsdr](https://github.com/g0orx/linhpsdr) linux hpsdr software.
   + [pihpsdr](https://github.com/g0orx/pihpsdr) Raspberry Pi 3 standalone code for HPSDR
 + [quisk](http://james.ahlstrom.name/quisk/) SDR software to control different radios like the Hermes-Lite or HiQSDR
++ [CubicSDR](https://github.com/cjcliffe/CubicSDR) a Cross-Platform Software-Defined Radio Application.
++ [insprectrum](https://github.com/miek/inspectrum) is a tool for analysing captured signals, primarily from software-defined radio receivers.
++ [ShinySDR](https://github.com/kpreid/shinysdr) is the software component of a software-defined radio receiver like the HackRF or RTL-SDR.
 
 ### Logging
 
@@ -48,6 +51,7 @@
 ### Satelite operation
 
 + [Gpredict](http://gpredict.oz9aec.net/) a real-time satellite tracking and orbit prediction application.
++ [gr-satellites](https://github.com/daniestevez/gr-satellites) GNU Radio decoders for several Amateur satellites.
 
 ## Hardware
 
