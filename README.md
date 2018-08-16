@@ -16,13 +16,13 @@
 + [gqrx](https://github.com/csete/gqrx) is an open source software defined radio (SDR) receiver implemented using GNU Radio and the Qt GUI toolkit.
 + [linhpsdr](https://github.com/g0orx/linhpsdr) linux hpsdr software.
   + [pihpsdr](https://github.com/g0orx/pihpsdr) Raspberry Pi 3 standalone code for HPSDR
-
-### Antennas
++ [quisk](http://james.ahlstrom.name/quisk/) SDR software to control different radios like the Hermes-Lite or HiQSDR
 
 ### Logging
 
 + [CQRLOG](https://github.com/ok2cqr/cqrlog) an advanced ham radio logger based on MySQL database.
 + [PyQSO](https://github.com/ctjacobs/pyqso) is a contact logging tool for amateur radio operators.
++ [Xlog](http://www.nongnu.org/xlog/) a minimal logging program for Amateur Radio Operators.
 
 ### Digimodes
 
@@ -39,6 +39,15 @@
 
 + [Hamlib](https://github.com/Hamlib/Hamlib) libraries for amateur radio equipment control applications.
 + [pyhamtools](https://github.com/dh1tw/pyhamtools ) is a set of functions and classes for Amateur Radio purposes.
+
+### Radio programming
+
++ [CHIRP](https://chirp.danplanet.com/projects/chirp/wiki/Home) a free, open-source tool for programming your amateur radio.
++ [codeplug](https://github.com/DaleFarnsworth/codeplug/tree/master/editcp) a codeplug editor  for the Tytera MD380 and MD390 as well as the Alinco DJ-MD40 radios.
+
+### Satelite operation
+
++ [Gpredict](http://gpredict.oz9aec.net/) a real-time satellite tracking and orbit prediction application.
 
 ## Hardware
 
