@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**A collection of the best open source hamradio projects!**
+**A collection of the best free and open source hamradio projects!**
 
 ## Software
 
