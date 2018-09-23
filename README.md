@@ -20,6 +20,7 @@
 + [CubicSDR](https://github.com/cjcliffe/CubicSDR) a Cross-Platform Software-Defined Radio Application.
 + [insprectrum](https://github.com/miek/inspectrum) is a tool for analysing captured signals, primarily from software-defined radio receivers.
 + [ShinySDR](https://github.com/kpreid/shinysdr) is the software component of a software-defined radio receiver like the HackRF or RTL-SDR.
++ [SDRangel](https://github.com/f4exb/sdrangel) SDR and signal analyzer frontend to various hardware.
 
 ### Logging
 
