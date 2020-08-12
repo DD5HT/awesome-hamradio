@@ -72,6 +72,9 @@
 + [Gpredict](http://gpredict.oz9aec.net/) a real-time satellite tracking and orbit prediction application.
 + [gr-satellites](https://github.com/daniestevez/gr-satellites) GNU Radio decoders for several Amateur satellites.
 
+### Training
++ [AFU Group Trainer](https://github.com/ccoors/afu-group-trainer) a tool that eases the collaborative learning for the (German) HAM exam by allowing each student to answer the questions during a learning session instead of just one person answering. (Currently only in german)
+
 ## Hardware
 
 + [MMDVM](https://github.com/g4klx/MMDVM) Multi-Mode Digital Voice Modem
