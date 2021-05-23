@@ -41,6 +41,7 @@
 ### Logging
 
 + [CQRLOG](https://github.com/ok2cqr/cqrlog) an advanced ham radio logger based on MySQL database.
++ [KLog](https://github.com/ea4k/klog) Linux, macOS and Windows multiplatform Hamradio logger.
 + [PyQSO](https://github.com/ctjacobs/pyqso) is a contact logging tool for amateur radio operators.
 + [Xlog](http://www.nongnu.org/xlog/) a minimal logging program for Amateur Radio Operators.
 
