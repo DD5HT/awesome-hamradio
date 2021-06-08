@@ -83,6 +83,7 @@
 
 + [HPSDR](http://openhpsdr.org/) a hardware and software project intended as a "next generation" Software Defined Radio (SDR) for use by Radio Amateurs.
 + [SM1000 FreeDV adapter](http://www.rowetel.com/wordpress/?page_id=3902) FreeDV in hardware. Purchasable on [tindie](https://www.tindie.com/products/edwin/sm1000-freedv-adpapter/)
++ [Hermes Lite2](https://github.com/softerhardware/Hermes-Lite2) a low-cost software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project.
 + [Mobilinkd TNCs](https://github.com/mobilinkd) have open firmware, unsure if hardware is open. [Homepage](http://www.mobilinkd.com/)
 + [TR-9](https://github.com/sp5wwp/TR-9) implements an [M17](https://github.com/sp5wwp/M17_spec) (fully open source DMR/D*/P25 competitor) radio.
 + [QCX-SSB](https://github.com/threeme3/QCX-SSB)  This is a simple and experimental modification that transforms your QCX into a (class-E driven) SSB transceiver. 
