@@ -13,11 +13,12 @@
 ### Networking
 + [HBLink3](https://github.com/n0mjs710/hblink3) Open Source HomeBrew Repeater Proctol Client/Master, can be used to create links between hotspots and repeaters.
 
-### Replacement Radio Firmwares and Reverse Engineering
+### Firmware
 
 + [MD380Tools](https://github.com/travisgoodspeed/md380tools) and [TyMD380Tools](https://github.com/KG5RKI/TyMD380Tools) have reverse engineered the MD380 and MD-2017/MDUV380 series radios respectively and have tools to build and work with replacement firmwares. MD380tools has most of what you need to understand the TYT .rdt codeplug format.
 + [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R. 
 + [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools)  Tools and guides for working with the Xiegu G90 HF radio firmware 
++ [OpenRTX](https://github.com/OpenRTX/OpenRTX) OpenRTX is a free and open source firmware for digital amateur radio devices, top-down designed with modularity, flexibility and performance in mind.
 
 ### Decoding
 
@@ -40,8 +41,9 @@
 + [ShinySDR](https://github.com/kpreid/shinysdr) is the software component of a software-defined radio receiver like the HackRF or RTL-SDR.
 + [SDRangel](https://github.com/f4exb/sdrangel) SDR and signal analyzer frontend to various hardware.
 + [PyMultimonAPRS](https://github.com/asdil12/pymultimonaprs) can take an RTLSDR or audio input and Igate APRS traffic.
-+ [OpenWebRX](https://github.com/jketterl/openwebrx)  Open source, multi-user SDR receiver software with a web interface, forked and improved from [HA7ILM's](https://github.com/ha7ilm/openwebrx) excellent initial project.
-+ [Qradiolink](https://github.com/qradiolink/qradiolink)  Multimode SDR transceiver for GNU radio 
++ [OpenWebRX](https://github.com/jketterl/openwebrx) Open source, multi-user SDR receiver software with a web interface, forked and improved from [HA7ILM's](https://github.com/ha7ilm/openwebrx) excellent initial project.
++ [Qradiolink](https://github.com/qradiolink/qradiolink) Multimode SDR transceiver for GNU radio 
++ [SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
 
 ### Logging
 
@@ -93,6 +95,6 @@
 + [SM1000 FreeDV adapter](http://www.rowetel.com/wordpress/?page_id=3902) FreeDV in hardware. Purchasable on [tindie](https://www.tindie.com/products/edwin/sm1000-freedv-adpapter/)
 + [Hermes Lite2](https://github.com/softerhardware/Hermes-Lite2) a low-cost software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project.
 + [Mobilinkd TNCs](https://github.com/mobilinkd) have open firmware, unsure if hardware is open. [Homepage](http://www.mobilinkd.com/)
-+ [TR-9](https://github.com/sp5wwp/TR-9) implements an [M17](https://github.com/sp5wwp/M17_spec) (fully open source DMR/D*/P25 competitor) radio.
 + [QCX-SSB](https://github.com/threeme3/QCX-SSB)  This is a simple and experimental modification that transforms your QCX into a (class-E driven) SSB transceiver. 
 + [uBITx](https://www.hfsignals.com/index.php/ubitx/) An understandable general coverage HF SSB/CW transceiver kit 
++ [M17-Project/OpenHT-hw](https://github.com/M17-Project/OpenHT-hw) Hardware part of the OpenHT - an open-source, SDR handheld transceiver.
