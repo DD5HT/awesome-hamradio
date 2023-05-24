@@ -6,6 +6,10 @@
 
 ## Software
 
+### APRS 
+
++ [APRS Track Direct](https://github.com/qvarforth/trackdirect) APRS Track Direct is a collection of tools that can be used to run an APRS website.
+
 ### Networking
 + [HBLink3](https://github.com/n0mjs710/hblink3) Open Source HomeBrew Repeater Proctol Client/Master, can be used to create links between hotspots and repeaters.
 
@@ -18,6 +22,7 @@
 ### Decoding
 
 + [multimon-ng](https://github.com/EliasOenal/multimon-ng) decodes many paging, AFSK modes, and similar, including POCSAG, FLEX, EAS.
++ [Codec2](https://github.com/drowe67/codec2) is a FOSS ultra-low bitrate voice codec that's competitive from 3200 bits/s down to 450 bits/s. Also includes [FreeDV](https://freedv.org/), an HF digital voice mode. [PyCodec2](https://github.com/gregorias/pycodec2) is an easy Python wrapper.
 
 ### POCSAG
 
@@ -28,7 +33,7 @@
 + [GNU Radio](https://github.com/gnuradio/gnuradio) a software development toolkit that provides signal processing blocks to implement software radios.
 + [gqrx](https://github.com/csete/gqrx) is an open source software defined radio (SDR) receiver implemented using GNU Radio and the Qt GUI toolkit.
 + [linhpsdr](https://github.com/g0orx/linhpsdr) linux hpsdr software.
-  + [pihpsdr](https://github.com/g0orx/pihpsdr) Raspberry Pi 3 standalone code for HPSDR
++ [pihpsdr](https://github.com/g0orx/pihpsdr) Raspberry Pi 3 standalone code for HPSDR
 + [quisk](http://james.ahlstrom.name/quisk/) SDR software to control different radios like the Hermes-Lite or HiQSDR
 + [CubicSDR](https://github.com/cjcliffe/CubicSDR) a Cross-Platform Software-Defined Radio Application.
 + [insprectrum](https://github.com/miek/inspectrum) is a tool for analysing captured signals, primarily from software-defined radio receivers.
@@ -40,6 +45,7 @@
 
 ### Logging
 
++ [Cloudlog](https://github.com/magicbug/Cloudlog) Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. All you need is a web browser and active internet connection.
 + [CQRLOG](https://github.com/ok2cqr/cqrlog) an advanced ham radio logger based on MySQL database.
 + [KLog](https://github.com/ea4k/klog) Linux, macOS and Windows multiplatform Hamradio logger.
 + [PyQSO](https://github.com/ctjacobs/pyqso) is a contact logging tool for amateur radio operators.
@@ -53,14 +59,13 @@
   + **MAP65:** For EME an VHF and higher frequencies. Implements a panoramic, polarization-matching receiver for JT65.
   + **WSPR:** Probe potential propagation paths using low-power transmissions.
   + **WSPR-X:** Experimental version of WSPR, including the slow mode WSPR-15.
-
 + [fldigi](https://sourceforge.net/projects/fldigi/) is a modem program for most of the digital modes used by radio amateurs today.
 
 ### Libraries
 
 + [Hamlib](https://github.com/Hamlib/Hamlib) libraries for amateur radio equipment control applications.
 + [pyhamtools](https://github.com/dh1tw/pyhamtools ) is a set of functions and classes for Amateur Radio purposes.
-+ [Codec2](https://github.com/drowe67/codec2) is a FOSS ultra-low bitrate voice codec that's competitive from 3200 bits/s down to 450 bits/s. Also includes [FreeDV](https://freedv.org/), an HF digital voice mode. [PyCodec2](https://github.com/gregorias/pycodec2) is an easy Python wrapper.
+
 + [CSDR](https://github.com/ha7ilm/csdr) csdr is a command line tool to carry out DSP tasks for Software Defined Radio.
 
 ### Radio programming
@@ -74,9 +79,11 @@
 + [gr-satellites](https://github.com/daniestevez/gr-satellites) GNU Radio decoders for several Amateur satellites.
 
 ### Training
+
 + [AFU Group Trainer](https://github.com/ccoors/afu-group-trainer) a tool that eases the collaborative learning for the (German) HAM exam by allowing each student to answer the questions during a learning session instead of just one person answering. (Currently only in german)
 
 ### Simulation 
+
 + [NEC2++](https://github.com/tmolteno/necpp) Numerical Electromagnetic Code in C++.
 
 ## Hardware
