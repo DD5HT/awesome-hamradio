@@ -76,6 +76,9 @@
 ### Training
 + [AFU Group Trainer](https://github.com/ccoors/afu-group-trainer) a tool that eases the collaborative learning for the (German) HAM exam by allowing each student to answer the questions during a learning session instead of just one person answering. (Currently only in german)
 
+### Simulation 
++ [NEC2++](https://github.com/tmolteno/necpp) Numerical Electromagnetic Code in C++.
+
 ## Hardware
 
 + [MMDVM](https://github.com/g4klx/MMDVM) Multi-Mode Digital Voice Modem
