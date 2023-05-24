@@ -89,7 +89,6 @@
 
 + [MMDVM](https://github.com/g4klx/MMDVM) Multi-Mode Digital Voice Modem
   + [MMDVM_HS_HAT](https://github.com/mathisschmieder/MMDVM_HS_Hat) for the Raspberry Pi (Zero)
-
 + [HPSDR](http://openhpsdr.org/) a hardware and software project intended as a "next generation" Software Defined Radio (SDR) for use by Radio Amateurs.
 + [SM1000 FreeDV adapter](http://www.rowetel.com/wordpress/?page_id=3902) FreeDV in hardware. Purchasable on [tindie](https://www.tindie.com/products/edwin/sm1000-freedv-adpapter/)
 + [Hermes Lite2](https://github.com/softerhardware/Hermes-Lite2) a low-cost software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project.
