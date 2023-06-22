@@ -11,7 +11,7 @@
 + [APRS Track Direct](https://github.com/qvarforth/trackdirect) APRS Track Direct is a collection of tools that can be used to run an APRS website.
 
 ### Networking
-+ [HBLink3](https://github.com/n0mjs710/hblink3) Open Source HomeBrew Repeater Proctol Client/Master, can be used to create links between hotspots and repeaters.
++ [HBLink3](https://github.com/n0mjs710/hblink3) Open Source HomeBrew Repeater Protocol Client/Master, can be used to create links between hotspots and repeaters.
 
 ### Firmware
 
