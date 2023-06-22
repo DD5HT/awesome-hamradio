@@ -19,6 +19,7 @@
 + [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R. 
 + [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools)  Tools and guides for working with the Xiegu G90 HF radio firmware 
 + [OpenRTX](https://github.com/OpenRTX/OpenRTX) OpenRTX is a free and open source firmware for digital amateur radio devices, top-down designed with modularity, flexibility and performance in mind.
++ [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
 
 ### Decoding
 
@@ -102,3 +103,4 @@
 + [M17-Project/OpenHT-hw](https://github.com/M17-Project/OpenHT-hw) Hardware part of the OpenHT - an open-source, SDR handheld transceiver.
 + [bmo/tuning-knob-pcboard](https://github.com/bmo/tuning-knob-pcboard) Open Source Tuning knob that works with PowerSDR and SmartSDR and Remote Ham Radio (RHR). Uses STM32 hardware.
 + [AIOC](https://github.com/skuep/AIOC) USB-C All-in-One board used for Audio, PTT, and Programming HTs.
++ [OpenCWKeyerMK2](https://github.com/ok1cdj/OpenCWKeyerMK2) Open-Source Version of the K1EL Winkeyer using K3NG firmware.
