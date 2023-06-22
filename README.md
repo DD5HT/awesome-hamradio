@@ -55,6 +55,7 @@
 + [Xlog](http://www.nongnu.org/xlog/) a minimal logging program for Amateur Radio Operators.
 + [GridTracker](https://gitlab.com/gridtracker.org/gridtracker) is a warehouse of amateur radio information presented in an easy to use interface, from live traffic decodes, logbooks, spot reports, weather, current solar conditions and more. (Used with WSJT-X)
 + [Not1MM](https://github.com/mbridak/not1mm) an alternative to N1MM contest logger using Python and QT.
++ [Node Red Contesting Dashboard](https://github.com/kylekrieg/Node-Red-Contesting-Dashboard) A basic multi screen contesting dashboard written in Node Red. 
 ### Digimodes
 
 + [WSJT](https://sourceforge.net/projects/wsjt/) five programs designed for amateur radio communication
