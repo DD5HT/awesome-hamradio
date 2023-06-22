@@ -91,3 +91,13 @@ uBITx
 OpenHT
 hw
 firmwares
+PowerSDR
+RHR
+STM
+SmartSDR
+bmo
+pcboard
+AIOC
+HTs
+PTT
+GridTracker
