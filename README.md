@@ -6,6 +6,13 @@
 
 ## Software
 
+### Operating Systems
+
++ [KB1OIQ - Andy's Ham Radio Linux](https://sourceforge.net/projects/kb1oiq-andysham/)
++ [73Linux](https://github.com/km4ack/73Linux) maintained by KM4ACK.
++ [W3DJS HamPi](https://github.com/dslotter/HamPi)
+
+
 ### APRS 
 
 + [APRS Track Direct](https://github.com/qvarforth/trackdirect) APRS Track Direct is a collection of tools that can be used to run an APRS website.
