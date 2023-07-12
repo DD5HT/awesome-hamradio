@@ -31,7 +31,12 @@
 ### Decoding
 
 + [multimon-ng](https://github.com/EliasOenal/multimon-ng) decodes many paging, AFSK modes, and similar, including POCSAG, FLEX, EAS.
-+ [Codec2](https://github.com/drowe67/codec2) is a FOSS ultra-low bitrate voice codec that's competitive from 3200 bits/s down to 450 bits/s. Also includes [FreeDV](https://freedv.org/), an HF digital voice mode. [PyCodec2](https://github.com/gregorias/pycodec2) is an easy Python wrapper.
+
+### CODEC2
++ [Codec2](https://github.com/drowe67/codec2) is a FOSS ultra-low bitrate voice codec that's competitive from 3200 bits/s down to 450 bits/s.
++ [FreeDV](https://freedv.org/), an HF digital voice mode.
++ [PyCodec2](https://github.com/gregorias/pycodec2) is an easy Python wrapper. 
++ [FreeDATA](https://github.com/DJ2LS/FreeDATA) is a free and open-source TNC with a GUI for codec2
 
 ### POCSAG
 
