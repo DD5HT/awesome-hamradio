@@ -79,6 +79,7 @@
   + **WSPR:** Probe potential propagation paths using low-power transmissions.
   + **WSPR-X:** Experimental version of WSPR, including the slow mode WSPR-15.
 + [fldigi](https://sourceforge.net/projects/fldigi/) is a modem program for most of the digital modes used by radio amateurs today.
++ [W0CHP-PiStar-Dash](https://repo.w0chp.net/WPSD-Dev/W0CHP-PiStar-Dash) is a highly modified and customized fork of Pi-Star for DMR, YSF, M17, NXDN, DSTAR and others.
 
 ### Libraries
 
