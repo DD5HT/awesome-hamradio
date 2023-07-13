@@ -99,3 +99,4 @@
 + [QCX-SSB](https://github.com/threeme3/QCX-SSB)  This is a simple and experimental modification that transforms your QCX into a (class-E driven) SSB transceiver. 
 + [uBITx](https://www.hfsignals.com/index.php/ubitx/) An understandable general coverage HF SSB/CW transceiver kit 
 + [M17-Project/OpenHT-hw](https://github.com/M17-Project/OpenHT-hw) Hardware part of the OpenHT - an open-source, SDR handheld transceiver.
++ [AIOC](https://github.com/skuep/AIOC) USB-C All-in-One board used for Audio, PTT, and Programming HTs.
