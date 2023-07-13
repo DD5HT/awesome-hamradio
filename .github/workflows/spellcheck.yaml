@@ -1,0 +1,29 @@
+name: Spellcheck Action
+on: 
+  push:
+    branches:
+       - 'main'
+  pull_request:
+     types: [open,reopened,edited]
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Spellcheck
+    runs-on: ubuntu-latest
+    steps:
+    # The checkout step
+    - uses: actions/checkout@v3
+    - uses: rojopolis/spellcheck-github-actions@v0
+      name: Spellcheck
+      with:
+        source_files: README.md 
+        task_name: Markdown
+        config_path: .github/config/.spellcheck.yaml
+        output_file: spellcheck-output.txt
+
+    - uses: actions/upload-artifact@v3
+      name: Archive spellcheck output
+      with:
+        name: Spellcheck artifact
+        path: spellcheck-output.txt
