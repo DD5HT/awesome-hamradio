@@ -1,5 +1,5 @@
 # Github Contributors
-[![Contributors](https://contrib.rocks/image?repo=kd9lsv/awesome-hamradio)](https://github.com/kd9lsv/awesome-hamradio/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=dd5ht/awesome-hamradio)](https://github.com/dd5ht/awesome-hamradio/graphs/contributors)
 
 Made with [contributors-img](https://contrib.rocks).
 
