@@ -126,3 +126,5 @@ DSTAR
 NXDN
 PiStar
 YSF
+FreeDATA
+TNC
