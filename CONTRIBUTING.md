@@ -9,4 +9,9 @@ Please ensure your pull request adheres to the following guidelines:
 + Check your spelling and grammar.
 + The pull request and commit should have a useful title.
 
++ If unfamilar with Github and just wanting to add changes, please fill out the following form https://forms.gle/XX9zwJXgWZhVwk8k8 and the maintiners will review the proposed additions.
+
 Thank you for your suggestions!
+
+73,
+The Maintainers.

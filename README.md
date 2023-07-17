@@ -6,24 +6,35 @@
 
 ## Software
 
-### APRS 
+### Operating Systems
+
++ [KB1OIQ - Andy's Ham Radio Linux](https://sourceforge.net/projects/kb1oiq-andysham/)
++ [73Linux](https://github.com/km4ack/73Linux) maintained by KM4ACK.
++ [W3DJS HamPi](https://github.com/dslotter/HamPi)
+
+### APRS
 
 + [APRS Track Direct](https://github.com/qvarforth/trackdirect) APRS Track Direct is a collection of tools that can be used to run an APRS website.
 
 ### Networking
+
 + [HBLink3](https://github.com/n0mjs710/hblink3) Open Source HomeBrew Repeater Protocol Client/Master, can be used to create links between hotspots and repeaters.
 
 ### Firmware
 
 + [MD380Tools](https://github.com/travisgoodspeed/md380tools) and [TyMD380Tools](https://github.com/KG5RKI/TyMD380Tools) have reverse engineered the MD380 and MD-2017/MDUV380 series radios respectively and have tools to build and work with replacement firmwares. MD380tools has most of what you need to understand the TYT .rdt codeplug format.
-+ [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R. 
-+ [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools)  Tools and guides for working with the Xiegu G90 HF radio firmware 
++ [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
++ [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools)  Tools and guides for working with the Xiegu G90 HF radio firmware
 + [OpenRTX](https://github.com/OpenRTX/OpenRTX) OpenRTX is a free and open source firmware for digital amateur radio devices, top-down designed with modularity, flexibility and performance in mind.
++ [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
 
 ### Decoding
 
 + [multimon-ng](https://github.com/EliasOenal/multimon-ng) decodes many paging, AFSK modes, and similar, including POCSAG, FLEX, EAS.
-+ [Codec2](https://github.com/drowe67/codec2) is a FOSS ultra-low bitrate voice codec that's competitive from 3200 bits/s down to 450 bits/s. Also includes [FreeDV](https://freedv.org/), an HF digital voice mode. [PyCodec2](https://github.com/gregorias/pycodec2) is an easy Python wrapper.
++ [Codec2](https://github.com/drowe67/codec2) is a FOSS ultra-low bitrate voice codec that's competitive from 3200 bits/s down to 450 bits/s.
+  + [FreeDV](https://freedv.org/), an HF digital voice mode based upon Codec2.
+  + [PyCodec2](https://github.com/gregorias/pycodec2) is an easy Python wrapper for Codec2. 
+  + [FreeDATA](https://github.com/DJ2LS/FreeDATA) is a free and open-source TNC with a GUI for codec2.
 
 ### POCSAG
 
@@ -37,12 +48,12 @@
 + [pihpsdr](https://github.com/g0orx/pihpsdr) Raspberry Pi 3 standalone code for HPSDR
 + [quisk](http://james.ahlstrom.name/quisk/) SDR software to control different radios like the Hermes-Lite or HiQSDR
 + [CubicSDR](https://github.com/cjcliffe/CubicSDR) a Cross-Platform Software-Defined Radio Application.
-+ [insprectrum](https://github.com/miek/inspectrum) is a tool for analysing captured signals, primarily from software-defined radio receivers.
++ [insprectrum](https://github.com/miek/inspectrum) is a tool for analyzing captured signals, primarily from software-defined radio receivers.
 + [ShinySDR](https://github.com/kpreid/shinysdr) is the software component of a software-defined radio receiver like the HackRF or RTL-SDR.
 + [SDRangel](https://github.com/f4exb/sdrangel) SDR and signal analyzer frontend to various hardware.
 + [PyMultimonAPRS](https://github.com/asdil12/pymultimonaprs) can take an RTLSDR or audio input and Igate APRS traffic.
 + [OpenWebRX](https://github.com/jketterl/openwebrx) Open source, multi-user SDR receiver software with a web interface, forked and improved from [HA7ILM's](https://github.com/ha7ilm/openwebrx) excellent initial project.
-+ [Qradiolink](https://github.com/qradiolink/qradiolink) Multimode SDR transceiver for GNU radio 
++ [Qradiolink](https://github.com/qradiolink/qradiolink) Multimode SDR transceiver for GNU radio
 + [SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
 
 ### Logging
@@ -53,6 +64,10 @@
 + [PyQSO](https://github.com/ctjacobs/pyqso) is a contact logging tool for amateur radio operators.
 + [Xlog](http://www.nongnu.org/xlog/) a minimal logging program for Amateur Radio Operators.
 + [GridTracker](https://gitlab.com/gridtracker.org/gridtracker) is a warehouse of amateur radio information presented in an easy to use interface, from live traffic decodes, logbooks, spot reports, weather, current solar conditions and more. (Used with WSJT-X)
++ [Not1MM](https://github.com/mbridak/not1mm) an alternative to N1MM contest logger using Python and QT.
++ [Node Red Contesting Dashboard](https://github.com/kylekrieg/Node-Red-Contesting-Dashboard) A basic multi screen contesting dashboard written in Node Red.
++ [TLF](https://github.com/Tlf/tlf) is a logging program for radiosport, or ham radio contests. It supports CQWW, CQ-WPX, ARRL-DX, ARRL-FD, PACC, and EU SPRINT contests as well as many more, and also has general QSO and DXpedition modes.
+
 ### Digimodes
 
 + [WSJT](https://sourceforge.net/projects/wsjt/) five programs designed for amateur radio communication
@@ -62,7 +77,7 @@
   + **WSPR:** Probe potential propagation paths using low-power transmissions.
   + **WSPR-X:** Experimental version of WSPR, including the slow mode WSPR-15.
 + [fldigi](https://sourceforge.net/projects/fldigi/) is a modem program for most of the digital modes used by radio amateurs today.
-
++ [W0CHP-PiStar-Dash](https://repo.w0chp.net/WPSD-Dev/W0CHP-PiStar-Dash) is a highly modified and customized fork of Pi-Star for DMR, YSF, M17, NXDN, DSTAR and others.
 
 ### Libraries
 
@@ -84,7 +99,9 @@
 
 + [AFU Group Trainer](https://github.com/ccoors/afu-group-trainer) a tool that eases the collaborative learning for the (German) HAM exam by allowing each student to answer the questions during a learning session instead of just one person answering. (Currently only in german)
 
-### Simulation 
++ [MorseRunner-CE](https://github.com/w7sst/MorseRunner) is an effective practice tool for improving their CW copying and pileup handling skills.
+
+### Simulation
 
 + [NEC2++](https://github.com/tmolteno/necpp) Numerical Electromagnetic Code in C++.
 
@@ -96,8 +113,9 @@
 + [SM1000 FreeDV adapter](http://www.rowetel.com/wordpress/?page_id=3902) FreeDV in hardware. Purchasable on [tindie](https://www.tindie.com/products/edwin/sm1000-freedv-adpapter/)
 + [Hermes Lite2](https://github.com/softerhardware/Hermes-Lite2) a low-cost software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project.
 + [Mobilinkd TNCs](https://github.com/mobilinkd) have open firmware, unsure if hardware is open. [Homepage](http://www.mobilinkd.com/)
-+ [QCX-SSB](https://github.com/threeme3/QCX-SSB)  This is a simple and experimental modification that transforms your QCX into a (class-E driven) SSB transceiver. 
-+ [uBITx](https://www.hfsignals.com/index.php/ubitx/) An understandable general coverage HF SSB/CW transceiver kit 
++ [QCX-SSB](https://github.com/threeme3/QCX-SSB)  This is a simple and experimental modification that transforms your QCX into a (class-E driven) SSB transceiver.
++ [uBITx](https://www.hfsignals.com/index.php/ubitx/) An understandable general coverage HF SSB/CW transceiver kit.
 + [M17-Project/OpenHT-hw](https://github.com/M17-Project/OpenHT-hw) Hardware part of the OpenHT - an open-source, SDR handheld transceiver.
 + [bmo/tuning-knob-pcboard](https://github.com/bmo/tuning-knob-pcboard) Open Source Tuning knob that works with PowerSDR and SmartSDR and Remote Ham Radio (RHR). Uses STM32 hardware.
 + [AIOC](https://github.com/skuep/AIOC) USB-C All-in-One board used for Audio, PTT, and Programming HTs.
++ [OpenCWKeyerMK2](https://github.com/ok1cdj/OpenCWKeyerMK2) Open-Source Version of the K1EL Winkeyer using K3NG firmware.
