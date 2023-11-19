@@ -29,8 +29,8 @@
 + [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The orginal open reimplementation of QuanSheng UB-K5 firmware. 
   + [OneOfEleven Mod](https://github.com/OneOfEleven/uv-k5-firmware-custom) Expands DualTachyon.
   + [fagci Mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) DualTachyon with a spectrum analyzer. 
-  + [Tunas1337 Mpd](https://github.com/Tunas1337/uv-k5-firmware) (Check the branches)
-  + [egzumer Merged Firmware](https://github.com/egzumer/uv-k5-firmware-custom) Includes OneOfEleven and fagci mods. [egzumer wiki/manual](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
+  + [Tunas1337 M0d](https://github.com/Tunas1337/uv-k5-firmware) (Check the branches)
+  + [egzumer Merged Firmware](https://github.com/egzumer/uv-k5-firmware-custom) Includes OneOfEleven and fagci mods. [Wiki/Manual.](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
 + [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
 
 ### Decoding
