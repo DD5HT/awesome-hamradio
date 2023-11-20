@@ -26,6 +26,11 @@
 + [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 + [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools)  Tools and guides for working with the Xiegu G90 HF radio firmware
 + [OpenRTX](https://github.com/OpenRTX/OpenRTX) OpenRTX is a free and open source firmware for digital amateur radio devices, top-down designed with modularity, flexibility and performance in mind.
++ [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The orginal open reimplementation of QuanSheng UB-K5 firmware. 
+  + [OneOfEleven Mod](https://github.com/OneOfEleven/uv-k5-firmware-custom) Expands DualTachyon.
+  + [fagci Mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) DualTachyon with a spectrum analyzer. 
+  + [Tunas1337 M0d](https://github.com/Tunas1337/uv-k5-firmware) (Check the branches)
+  + [egzumer Merged Firmware](https://github.com/egzumer/uv-k5-firmware-custom) Includes OneOfEleven and fagci mods. [Wiki/Manual.](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
 + [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
 
 ### Decoding
