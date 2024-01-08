@@ -82,7 +82,7 @@
   + **WSPR:** Probe potential propagation paths using low-power transmissions.
   + **WSPR-X:** Experimental version of WSPR, including the slow mode WSPR-15.
 + [fldigi](https://sourceforge.net/projects/fldigi/) is a modem program for most of the digital modes used by radio amateurs today.
-+ [W0CHP-PiStar-Dash](https://repo.w0chp.net/WPSD-Dev/W0CHP-PiStar-Dash) is a highly modified and customized fork of Pi-Star for DMR, YSF, M17, NXDN, DSTAR and others.
++ [The WPSD Project](https://wpsd.radio/) WPSD is a next-generation, digital voice software suite for amateur radio use. It supports M17, DMR, D-Star, Yaesu System Fusion (YSF/C4FM), P25, NXDN digital voice modes & POCSAG data/paging.
 
 ### Libraries
 
