@@ -15,6 +15,7 @@
 ### APRS
 
 + [APRS Track Direct](https://github.com/qvarforth/trackdirect) APRS Track Direct is a collection of tools that can be used to run an APRS website.
++ [APRSdroid](https://github.com/ge0rg/aprsdroid) is an Android application that allows reporting your position via APRS with other amateur radio operators.
 
 ### Networking
 
