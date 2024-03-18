@@ -82,6 +82,7 @@
   + **WSPR:** Probe potential propagation paths using low-power transmissions.
   + **WSPR-X:** Experimental version of WSPR, including the slow mode WSPR-15.
 + [JTDX](https://sourceforge.net/projects/jtdx/) is an alternative to WSJT.
++ [MSHV](https://sourceforge.net/projects/mshv/)is an alternative to WSJT.
 + [fldigi](https://sourceforge.net/projects/fldigi/) is a modem program for most of the digital modes used by radio amateurs today.
 + [The WPSD Project](https://wpsd.radio/) WPSD is a next-generation, digital voice software suite for amateur radio use. It supports M17, DMR, D-Star, Yaesu System Fusion (YSF/C4FM), P25, NXDN digital voice modes & POCSAG data/paging.
 
