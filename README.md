@@ -127,3 +127,4 @@
 + [bmo/tuning-knob-pcboard](https://github.com/bmo/tuning-knob-pcboard) Open Source Tuning knob that works with PowerSDR and SmartSDR and Remote Ham Radio (RHR). Uses STM32 hardware.
 + [AIOC](https://github.com/skuep/AIOC) USB-C All-in-One board used for Audio, PTT, and Programming HTs.
 + [OpenCWKeyerMK2](https://github.com/ok1cdj/OpenCWKeyerMK2) Open-Source Version of the K1EL Winkeyer using K3NG firmware.
++ [OHIS](https://github.com/open-headset-interconnect-standard/ohis) is a standard for various audio interfaces.
