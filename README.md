@@ -94,6 +94,7 @@
 
 + [CHIRP](https://chirp.danplanet.com/projects/chirp/wiki/Home) a free, open-source tool for programming your amateur radio.
 + [editcp](https://github.com/DaleFarnsworth/codeplug/tree/master/editcp) a codeplug editor  for the Tytera MD380 and MD390 as well as the Alinco DJ-MD40 radios.
++ [QDMR](https://github.com/hmatuschek/qdmr) a GUI application and command line tool to program DMR radios.
 
 ### Satellite operation
 
