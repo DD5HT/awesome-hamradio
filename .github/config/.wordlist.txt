@@ -128,3 +128,14 @@ PiStar
 YSF
 FreeDATA
 TNC
+QuanSheng
+AREDN
+MSHV
+JTDX
+WPSD
+Yaseu
+QDMR
+OHIS
+emcomm
+DualTachyon
+APRSdroid
