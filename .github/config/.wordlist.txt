@@ -139,3 +139,6 @@ OHIS
 emcomm
 DualTachyon
 APRSdroid
+OneOfEleven
+fagci
+egzumer
