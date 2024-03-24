@@ -142,3 +142,5 @@ APRSdroid
 OneOfEleven
 fagci
 egzumer
+reimplementation
+Yaesu
