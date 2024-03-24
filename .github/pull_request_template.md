@@ -1,4 +1,4 @@
-## What Resources are you wanting to add to the Repo?
+## What Resources are you wanting to add/modify to the Repo?
 -
 
 ## Checklist
