@@ -15,6 +15,7 @@
 ### APRS
 
 + [APRS Track Direct](https://github.com/qvarforth/trackdirect) APRS Track Direct is a collection of tools that can be used to run an APRS website.
++ [APRSdroid](https://github.com/ge0rg/aprsdroid) is an Android application that allows reporting your position via APRS with other amateur radio operators.
 
 ### Networking
 
@@ -26,12 +27,13 @@
 + [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 + [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools)  Tools and guides for working with the Xiegu G90 HF radio firmware
 + [OpenRTX](https://github.com/OpenRTX/OpenRTX) OpenRTX is a free and open source firmware for digital amateur radio devices, top-down designed with modularity, flexibility and performance in mind.
-+ [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The orginal open reimplementation of QuanSheng UB-K5 firmware. 
++ [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The original open reimplementation of QuanSheng UB-K5 firmware. 
   + [OneOfEleven Mod](https://github.com/OneOfEleven/uv-k5-firmware-custom) Expands DualTachyon.
   + [fagci Mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) DualTachyon with a spectrum analyzer. 
   + [Tunas1337 M0d](https://github.com/Tunas1337/uv-k5-firmware) (Check the branches)
   + [egzumer Merged Firmware](https://github.com/egzumer/uv-k5-firmware-custom) Includes OneOfEleven and fagci mods. [Wiki/Manual.](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
 + [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
++ [Amateur Radio Emergency Radio Network (AREDN)](https://github.com/aredn/aredn) is a project that is delivering quality, high-speed, data communications for Emcomm via Amateur using commercial off the shelf hardware.
 
 ### Decoding
 
@@ -81,6 +83,8 @@
   + **MAP65:** For EME an VHF and higher frequencies. Implements a panoramic, polarization-matching receiver for JT65.
   + **WSPR:** Probe potential propagation paths using low-power transmissions.
   + **WSPR-X:** Experimental version of WSPR, including the slow mode WSPR-15.
++ [JTDX](https://sourceforge.net/projects/jtdx/) is an alternative to WSJT.
++ [MSHV](https://sourceforge.net/projects/mshv/)is an alternative to WSJT.
 + [fldigi](https://sourceforge.net/projects/fldigi/) is a modem program for most of the digital modes used by radio amateurs today.
 + [The WPSD Project](https://wpsd.radio/) WPSD is a next-generation, digital voice software suite for amateur radio use. It supports M17, DMR, D-Star, Yaesu System Fusion (YSF/C4FM), P25, NXDN digital voice modes & POCSAG data/paging.
 
@@ -94,6 +98,7 @@
 
 + [CHIRP](https://chirp.danplanet.com/projects/chirp/wiki/Home) a free, open-source tool for programming your amateur radio.
 + [editcp](https://github.com/DaleFarnsworth/codeplug/tree/master/editcp) a codeplug editor  for the Tytera MD380 and MD390 as well as the Alinco DJ-MD40 radios.
++ [QDMR](https://github.com/hmatuschek/qdmr) a GUI application and command line tool to program DMR radios.
 
 ### Satellite operation
 
@@ -124,3 +129,4 @@
 + [bmo/tuning-knob-pcboard](https://github.com/bmo/tuning-knob-pcboard) Open Source Tuning knob that works with PowerSDR and SmartSDR and Remote Ham Radio (RHR). Uses STM32 hardware.
 + [AIOC](https://github.com/skuep/AIOC) USB-C All-in-One board used for Audio, PTT, and Programming HTs.
 + [OpenCWKeyerMK2](https://github.com/ok1cdj/OpenCWKeyerMK2) Open-Source Version of the K1EL Winkeyer using K3NG firmware.
++ [OHIS](https://github.com/open-headset-interconnect-standard/ohis) is a standard for various audio interfaces.
