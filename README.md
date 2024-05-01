@@ -74,6 +74,7 @@
 + [Not1MM](https://github.com/mbridak/not1mm) an alternative to N1MM contest logger using Python and QT.
 + [Node Red Contesting Dashboard](https://github.com/kylekrieg/Node-Red-Contesting-Dashboard) A basic multi screen contesting dashboard written in Node Red.
 + [TLF](https://github.com/Tlf/tlf) is a logging program for radiosport, or ham radio contests. It supports CQWW, CQ-WPX, ARRL-DX, ARRL-FD, PACC, and EU SPRINT contests as well as many more, and also has general QSO and DXpedition modes.
++ [POLO](https://github.com/ham2k/app-polo) Ham2K Portable Logger is a mobile logging made in React.
 
 ### Digimodes
 
