@@ -27,7 +27,7 @@
 + [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 + [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools)  Tools and guides for working with the Xiegu G90 HF radio firmware
 + [OpenRTX](https://github.com/OpenRTX/OpenRTX) OpenRTX is a free and open source firmware for digital amateur radio devices, top-down designed with modularity, flexibility and performance in mind.
-+ [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The original open reimplementation of QuanSheng UB-K5 firmware. 
++ [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The original open reimplementation of QuanSheng UV-K5 firmware. 
   + [OneOfEleven Mod](https://github.com/OneOfEleven/uv-k5-firmware-custom) Expands DualTachyon.
   + [fagci Mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) DualTachyon with a spectrum analyzer. 
   + [Tunas1337 M0d](https://github.com/Tunas1337/uv-k5-firmware) (Check the branches)
@@ -74,6 +74,7 @@
 + [Not1MM](https://github.com/mbridak/not1mm) an alternative to N1MM contest logger using Python and QT.
 + [Node Red Contesting Dashboard](https://github.com/kylekrieg/Node-Red-Contesting-Dashboard) A basic multi screen contesting dashboard written in Node Red.
 + [TLF](https://github.com/Tlf/tlf) is a logging program for radiosport, or ham radio contests. It supports CQWW, CQ-WPX, ARRL-DX, ARRL-FD, PACC, and EU SPRINT contests as well as many more, and also has general QSO and DXpedition modes.
++ [POLO](https://github.com/ham2k/app-polo) Ham2K Portable Logger is a mobile logging made in React.
 
 ### Digimodes
 
