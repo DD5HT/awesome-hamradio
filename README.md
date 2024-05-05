@@ -66,6 +66,7 @@
 ### Logging
 
 + [Cloudlog](https://github.com/magicbug/Cloudlog) Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. All you need is a web browser and active internet connection.
++ [Wavelog](https://github.com/wavelog/wavelog) Enhanced powerfork of Cloudlog. Stability, Usability, Performance. Web and Demo: [https://www.wavelog.org](https://www.wavelog.org).
 + [CQRLOG](https://github.com/ok2cqr/cqrlog) an advanced ham radio logger based on MySQL database.
 + [KLog](https://github.com/ea4k/klog) Linux, macOS and Windows multiplatform Hamradio logger.
 + [PyQSO](https://github.com/ctjacobs/pyqso) is a contact logging tool for amateur radio operators.
