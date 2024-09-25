@@ -34,7 +34,10 @@
   + [egzumer Merged Firmware](https://github.com/egzumer/uv-k5-firmware-custom) Includes OneOfEleven and fagci mods. [Wiki/Manual.](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
 + [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
 + [Amateur Radio Emergency Radio Network (AREDN)](https://github.com/aredn/aredn) is a project that is delivering quality, high-speed, data communications for Emcomm via Amateur using commercial off the shelf hardware.
-
++ [Nicsure Firmware](https://nicsure.co.uk/h3h8/) is an alternative firmware for TIDRADIO TD-H3 and TIDRADIO TD-H8.
++ [Quansheng UV-k5 Web Flasher](https://k5.vicicode.com/#/chirp/base) is a firmware web flasher for Quansheng UV-K5. 
++ [UVMod Web Flasher](https://whosmatt.github.io/uvmod/) is a firmware web flasher for Quansheng UV-K5.
+  
 ### Decoding
 
 + [multimon-ng](https://github.com/EliasOenal/multimon-ng) decodes many paging, AFSK modes, and similar, including POCSAG, FLEX, EAS.
