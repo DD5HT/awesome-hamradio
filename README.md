@@ -79,7 +79,6 @@
 + [Node Red Contesting Dashboard](https://github.com/kylekrieg/Node-Red-Contesting-Dashboard) A basic multi screen contesting dashboard written in Node Red.
 + [TLF](https://github.com/Tlf/tlf) is a logging program for radiosport, or ham radio contests. It supports CQWW, CQ-WPX, ARRL-DX, ARRL-FD, PACC, and EU SPRINT contests as well as many more, and also has general QSO and DXpedition modes.
 + [POLO](https://github.com/ham2k/app-polo) Ham2K Portable Logger is a mobile logging made in React.
-+ [VK port-a-log](https://vk3zpf.com/vk-port-a-log) VK port-a-log is an Android logging app primarily for portable logging. It can be used for SOTA, WWFF, Silos On The Air (SiOTA), HEMA, VK Shires or portable operation. 
 
 ### Digimodes
 
