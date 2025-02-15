@@ -79,6 +79,8 @@
 + [Node Red Contesting Dashboard](https://github.com/kylekrieg/Node-Red-Contesting-Dashboard) A basic multi screen contesting dashboard written in Node Red.
 + [TLF](https://github.com/Tlf/tlf) is a logging program for radiosport, or ham radio contests. It supports CQWW, CQ-WPX, ARRL-DX, ARRL-FD, PACC, and EU SPRINT contests as well as many more, and also has general QSO and DXpedition modes.
 + [POLO](https://github.com/ham2k/app-polo) Ham2K Portable Logger is a mobile logging made in React.
++ [FLEcli](https://github.com/on4kjm/FLEcli) is a processor for log files in the [Fast Log Entry (FLE)](https://df3cb.com/fle/) format running on Windows, MacOS, Linux, ARM (RaspberryPi) and Docker.
+
 
 ### Digimodes
 
