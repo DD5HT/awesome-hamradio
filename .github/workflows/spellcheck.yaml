@@ -23,7 +23,7 @@ jobs:
         config_path: .github/config/.spellcheck.yaml
         output_file: spellcheck-output.txt
 
-    - uses: actions/upload-artifact@v5
+    - uses: actions/upload-artifact@v6
       name: Archive spellcheck output
       with:
         name: Spellcheck artifact
