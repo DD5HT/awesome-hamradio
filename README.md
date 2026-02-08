@@ -17,6 +17,7 @@
 + [APRS Track Direct](https://github.com/qvarforth/trackdirect) APRS Track Direct is a collection of tools that can be used to run an APRS website.
 + [APRSdroid](https://github.com/ge0rg/aprsdroid) is an Android application that allows reporting your position via APRS with other amateur radio operators.
 + [Awesome-LoRa-APRS](https://github.com/9M2PJU/Awesome-LoRa-APRS) A curated list of awesome resources, projects, tools, and references for LoRa APRS — combining LoRa technology with the Automatic Packet Reporting System used in amateur radio.
++ [APSD](https://repo.kc1awv.net/kc1awv/APSD) A modern APRS software platform. Cross-platform: Works on Linux, Windows, and Mac. Native `GPSd` integration.
 
 ### Networking
 
@@ -28,23 +29,23 @@
 + [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 + [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools)  Tools and guides for working with the Xiegu G90 HF radio firmware
 + [OpenRTX](https://github.com/OpenRTX/OpenRTX) OpenRTX is a free and open source firmware for digital amateur radio devices, top-down designed with modularity, flexibility and performance in mind.
-+ [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The original open reimplementation of QuanSheng UV-K5 firmware. 
++ [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The original open reimplementation of QuanSheng UV-K5 firmware.
   + [OneOfEleven Mod](https://github.com/OneOfEleven/uv-k5-firmware-custom) Expands DualTachyon.
-  + [fagci Mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) DualTachyon with a spectrum analyzer. 
+  + [fagci Mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) DualTachyon with a spectrum analyzer.
   + [Tunas1337 M0d](https://github.com/Tunas1337/uv-k5-firmware) (Check the branches)
   + [egzumer Merged Firmware](https://github.com/egzumer/uv-k5-firmware-custom) Includes OneOfEleven and fagci mods. [Wiki/Manual.](https://github.com/egzumer/uv-k5-firmware-custom/wiki)
 + [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
 + [Amateur Radio Emergency Radio Network (AREDN)](https://github.com/aredn/aredn) is a project that is delivering quality, high-speed, data communications for Emcomm via Amateur using commercial off the shelf hardware.
 + [Nicsure Firmware](https://nicsure.co.uk/h3h8/) is an alternative firmware for TIDRADIO TD-H3 and TIDRADIO TD-H8.
-+ [Quansheng UV-k5 Web Flasher](https://k5.vicicode.com/#/chirp/base) is a firmware web flasher for Quansheng UV-K5. 
++ [Quansheng UV-k5 Web Flasher](https://k5.vicicode.com/#/chirp/base) is a firmware web flasher for Quansheng UV-K5.
 + [UVMod Web Flasher](https://whosmatt.github.io/uvmod/) is a firmware web flasher for Quansheng UV-K5.
-  
+
 ### Decoding
 
 + [multimon-ng](https://github.com/EliasOenal/multimon-ng) decodes many paging, AFSK modes, and similar, including POCSAG, FLEX, EAS.
 + [Codec2](https://github.com/drowe67/codec2) is a FOSS ultra-low bitrate voice codec that's competitive from 3200 bits/s down to 450 bits/s.
   + [FreeDV](https://freedv.org/), an HF digital voice mode based upon Codec2.
-  + [PyCodec2](https://github.com/gregorias/pycodec2) is an easy Python wrapper for Codec2. 
+  + [PyCodec2](https://github.com/gregorias/pycodec2) is an easy Python wrapper for Codec2.
   + [FreeDATA](https://github.com/DJ2LS/FreeDATA) is a free and open-source TNC with a GUI for codec2.
 
 ### POCSAG
@@ -94,7 +95,7 @@
 + [JTDX](https://sourceforge.net/projects/jtdx/) is an alternative to WSJT.
 + [MSHV](https://sourceforge.net/projects/mshv/)is an alternative to WSJT.
 + [fldigi](https://sourceforge.net/projects/fldigi/) is a modem program for most of the digital modes used by radio amateurs today.
-+ [The WPSD Project](https://wpsd.radio/) WPSD is a next-generation, digital voice software suite for amateur radio use. It supports M17, DMR, D-Star, Yaesu System Fusion (YSF/C4FM), P25, NXDN digital voice modes & POCSAG data/paging.
++ [The WPSD Project](https://wpsd.radio/) WPSD is a next-generation, digital voice software suite for amateur radio use. It supports DMR, D-Star, Yaesu System Fusion (YSF/C4FM), P25, NXDN digital voice modes & POCSAG data/paging.
 
 ### Libraries
 
