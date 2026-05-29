@@ -135,7 +135,7 @@
 + [CHIRP](https://chirp.danplanet.com/projects/chirp/wiki/Home) a free, open-source tool for programming your amateur radio.
 + [editcp](https://github.com/DaleFarnsworth/codeplug/tree/master/editcp) a codeplug editor  for the Tytera MD380 and MD390 as well as the Alinco DJ-MD40 radios.
 + [flrig](https://github.com/w1hkj/flrig) Rig control front-end for Hamlib, designed to work alongside fldigi.
-+ [Grig](https://github.com/csete/grig) GTK+ graphical rig control application using Hamlib.
++ [Grig](https://github.com/fillods/grig) GTK+ graphical rig control application using Hamlib.
 + [QDMR](https://github.com/hmatuschek/qdmr) a GUI application and command line tool to program DMR radios.
 
 ### Satellite operation
