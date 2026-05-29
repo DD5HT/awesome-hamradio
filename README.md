@@ -47,7 +47,7 @@
 ### Firmware
 
 + [MD380Tools](https://github.com/travisgoodspeed/md380tools) and [TyMD380Tools](https://github.com/KG5RKI/TyMD380Tools) have reverse engineered the MD380 and MD-2017/MDUV380 series radios respectively and have tools to build and work with replacement firmwares. MD380tools has most of what you need to understand the TYT .rdt codeplug format.
-+ [OpenGD77](https://github.com/OpenGD77/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddity GD-77, Baofeng DM-1801 and Baofeng RD-5R.
++ [OpenGD77](https://github.com/open-ham/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddity GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 + [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools) Tools and guides for working with the Xiegu G90 HF radio firmware.
 + [OpenRTX](https://github.com/OpenRTX/OpenRTX) OpenRTX is a free and open source firmware for digital amateur radio devices, top-down designed with modularity, flexibility and performance in mind.
 + [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The original open reimplementation of QuanSheng UV-K5 firmware.
