@@ -4,13 +4,33 @@
 
 **A collection of the best free and open source hamradio projects!**
 
+## Table of Contents
+
+- [Software](#software)
+  - [Operating Systems](#operating-systems)
+  - [APRS](#aprs)
+  - [Networking](#networking)
+  - [Firmware](#firmware)
+  - [Decoding](#decoding)
+  - [POCSAG](#pocsag)
+  - [SDR](#sdr)
+  - [Logging](#logging)
+  - [Digimodes](#digimodes)
+  - [Libraries](#libraries)
+  - [Radio programming](#radio-programming)
+  - [Satellite operation](#satellite-operation)
+  - [Training](#training)
+  - [Simulation](#simulation)
+- [Hardware](#hardware)
+- [Contributing](#contributing)
+
 ## Software
 
 ### Operating Systems
 
-+ [KB1OIQ - Andy's Ham Radio Linux](https://sourceforge.net/projects/kb1oiq-andysham/)
-+ [73Linux](https://github.com/km4ack/73Linux) maintained by KM4ACK.
-+ [W3DJS HamPi](https://github.com/dslotter/HamPi)
++ [KB1OIQ - Andy's Ham Radio Linux](https://sourceforge.net/projects/kb1oiq-andysham/) A ham radio Linux distribution with pre-installed amateur radio software, maintained by KB1OIQ.
++ [73Linux](https://github.com/km4ack/73Linux) Maintained by KM4ACK.
++ [W3DJS HamPi](https://github.com/dslotter/HamPi) A Raspberry Pi image with a large collection of ham radio software pre-installed.
 + [DragonOS](https://sourceforge.net/projects/dragonos-focal/) a Debian based Linux distribution with pre-installed open source SDR software.
 
 ### APRS
@@ -28,12 +48,12 @@
 
 + [MD380Tools](https://github.com/travisgoodspeed/md380tools) and [TyMD380Tools](https://github.com/KG5RKI/TyMD380Tools) have reverse engineered the MD380 and MD-2017/MDUV380 series radios respectively and have tools to build and work with replacement firmwares. MD380tools has most of what you need to understand the TYT .rdt codeplug format.
 + [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddity GD-77, Baofeng DM-1801 and Baofeng RD-5R.
-+ [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools)  Tools and guides for working with the Xiegu G90 HF radio firmware
++ [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools) Tools and guides for working with the Xiegu G90 HF radio firmware.
 + [OpenRTX](https://github.com/OpenRTX/OpenRTX) OpenRTX is a free and open source firmware for digital amateur radio devices, top-down designed with modularity, flexibility and performance in mind.
 + [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The original open reimplementation of QuanSheng UV-K5 firmware.
   + [OneOfEleven Mod](https://github.com/OneOfEleven/uv-k5-firmware-custom) Expands DualTachyon.
   + [fagci Mod](https://github.com/fagci/uv-k5-firmware-fagci-mod) DualTachyon with a spectrum analyzer.
-  + [Tunas1337 M0d](https://github.com/Tunas1337/uv-k5-firmware) (Check the branches)
+  + [Tunas1337 M0d](https://github.com/Tunas1337/uv-k5-firmware) Another UV-K5 firmware variant with additional modifications. (Check the branches.)
   + [egzumer Merged Firmware](https://github.com/egzumer/uv-k5-firmware-custom) Includes OneOfEleven and fagci mods. [Manual.](https://github.com/egzumer/uv-k5-firmware-custom?tab=readme-ov-file#manual)
 + [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
 + [Amateur Radio Emergency Radio Network (AREDN)](https://github.com/aredn/aredn) is a project that is delivering quality, high-speed, data communications for Emcomm via Amateur using commercial off the shelf hardware.
@@ -57,7 +77,7 @@
 
 + [GNU Radio](https://github.com/gnuradio/gnuradio) a software development toolkit that provides signal processing blocks to implement software radios.
 + [gqrx](https://github.com/csete/gqrx) is an open source software defined radio (SDR) receiver implemented using GNU Radio and the Qt GUI toolkit.
-+ [linhpsdr](https://github.com/g0orx/linhpsdr) linux hpsdr software.
++ [linhpsdr](https://github.com/g0orx/linhpsdr) Linux HPSDR software.
 + [pihpsdr](https://github.com/g0orx/pihpsdr) Raspberry Pi 3 standalone code for HPSDR
 + [quisk](http://james.ahlstrom.name/quisk/) SDR software to control different radios like the Hermes-Lite or HiQSDR
 + [CubicSDR](https://github.com/cjcliffe/CubicSDR) a Cross-Platform Software-Defined Radio Application.
@@ -66,7 +86,7 @@
 + [SDRangel](https://github.com/f4exb/sdrangel) SDR and signal analyzer frontend to various hardware.
 + [PyMultimonAPRS](https://github.com/asdil12/pymultimonaprs) can take an RTLSDR or audio input and Igate APRS traffic.
 + [OpenWebRX](https://github.com/jketterl/openwebrx) Open source, multi-user SDR receiver software with a web interface, forked and improved from [HA7ILM's](https://github.com/ha7ilm/openwebrx) excellent initial project.
-+ [Qradiolink](https://github.com/qradiolink/qradiolink) Multimode SDR transceiver for GNU radio
++ [Qradiolink](https://github.com/qradiolink/qradiolink) Multimode SDR transceiver for GNU Radio.
 + [SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
 + [SigDigger](https://github.com/BatchDrake/SigDigger) a free digital signal analyzer for GNU/Linux and macOS, built on top of Sigutils and Suscan.
 + [AetherSDR](https://github.com/aethersdr/AetherSDR) brings FlexRadio operation to Linux without Wine or virtual machines, built with Qt6 and C++20 using the SmartSDR protocol natively.
@@ -96,14 +116,14 @@
   + **WSPR:** Probe potential propagation paths using low-power transmissions.
   + **WSPR-X:** Experimental version of WSPR, including the slow mode WSPR-15.
 + [JTDX](https://sourceforge.net/projects/jtdx/) is an alternative to WSJT.
-+ [MSHV](https://sourceforge.net/projects/mshv/)is an alternative to WSJT.
++ [MSHV](https://sourceforge.net/projects/mshv/) is an alternative to WSJT.
 + [fldigi](https://sourceforge.net/projects/fldigi/) is a modem program for most of the digital modes used by radio amateurs today.
 + [The WPSD Project](https://wpsd.radio/) WPSD is a next-generation, digital voice software suite for amateur radio use. It supports DMR, D-Star, Yaesu System Fusion (YSF/C4FM), P25, NXDN digital voice modes & POCSAG data/paging.
 
 ### Libraries
 
 + [Hamlib](https://github.com/Hamlib/Hamlib) libraries for amateur radio equipment control applications.
-+ [pyhamtools](https://github.com/dh1tw/pyhamtools ) is a set of functions and classes for Amateur Radio purposes.
++ [pyhamtools](https://github.com/dh1tw/pyhamtools) is a set of functions and classes for Amateur Radio purposes.
 + [CSDR](https://github.com/ha7ilm/csdr) csdr is a command line tool to carry out DSP tasks for Software Defined Radio.
 
 ### Radio programming
@@ -120,9 +140,8 @@
 
 ### Training
 
-+ [AFU Group Trainer](https://github.com/ccoors/afu-group-trainer) a tool that eases the collaborative learning for the (German) HAM exam by allowing each student to answer the questions during a learning session instead of just one person answering. (Currently only in german)
-
-+ [MorseRunner-CE](https://github.com/w7sst/MorseRunner) is an effective practice tool for improving their CW copying and pileup handling skills.
++ [AFU Group Trainer](https://github.com/ccoors/afu-group-trainer) A tool that eases the collaborative learning for the (German) HAM exam by allowing each student to answer the questions during a learning session instead of just one person answering. (Currently only in German.)
++ [MorseRunner-CE](https://github.com/w7sst/MorseRunner) An effective practice tool for improving CW copying and pileup handling skills.
 
 ### Simulation
 
@@ -147,3 +166,7 @@
 + [kv4p HT](https://github.com/VanceVagell/kv4p-ht) Turn your Android phone into a modern ham radio transceiver.
 + [LoRaDV HT](https://github.com/sh123/esp32_loradv) ESP32 based LoRa digital voice handheld transceiver.
 + [LinHT](https://github.com/M17-Project/LinHT-hw) an open-source Linux-based handheld transceiver hardware by the M17 Project.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding entries, the entry format, and how to report broken links.
