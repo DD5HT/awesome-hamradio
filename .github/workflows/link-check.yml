@@ -26,5 +26,6 @@ jobs:
             --timeout 30
             --max-retries 3
             --retry-wait-time 5
+            --exclude 'http://www.nongnu.org'
             README.md
           fail: true

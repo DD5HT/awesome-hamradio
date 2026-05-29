@@ -37,7 +37,7 @@
 
 + [APRS Track Direct](https://github.com/qvarforth/trackdirect) APRS Track Direct is a collection of tools that can be used to run an APRS website.
 + [APRSdroid](https://github.com/ge0rg/aprsdroid) is an Android application that allows reporting your position via APRS with other amateur radio operators.
-+ [Awesome-LoRa-APRS](https://github.com/9M2PJU/Awesome-LoRa-APRS) A curated list of awesome resources, projects, tools, and references for LoRa APRS — combining LoRa technology with the Automatic Packet Reporting System used in amateur radio.
+
 + [APSD](https://repo.kc1awv.net/kc1awv/APSD) A modern APRS software platform. Cross-platform: Works on Linux, Windows, and Mac. Native `GPSd` integration.
 
 ### Networking
@@ -47,7 +47,7 @@
 ### Firmware
 
 + [MD380Tools](https://github.com/travisgoodspeed/md380tools) and [TyMD380Tools](https://github.com/KG5RKI/TyMD380Tools) have reverse engineered the MD380 and MD-2017/MDUV380 series radios respectively and have tools to build and work with replacement firmwares. MD380tools has most of what you need to understand the TYT .rdt codeplug format.
-+ [OpenGD77](https://github.com/rogerclarkmelbourne/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddity GD-77, Baofeng DM-1801 and Baofeng RD-5R.
++ [OpenGD77](https://github.com/OpenGD77/OpenGD77)  Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddity GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 + [G90Tools](https://github.com/OpenHamradioFirmware/G90Tools) Tools and guides for working with the Xiegu G90 HF radio firmware.
 + [OpenRTX](https://github.com/OpenRTX/OpenRTX) OpenRTX is a free and open source firmware for digital amateur radio devices, top-down designed with modularity, flexibility and performance in mind.
 + [DualTachyon QuanSheng UV-K5](https://github.com/DualTachyon/uv-k5-firmware) The original open reimplementation of QuanSheng UV-K5 firmware.
@@ -57,7 +57,7 @@
   + [egzumer Merged Firmware](https://github.com/egzumer/uv-k5-firmware-custom) Includes OneOfEleven and fagci mods. [Manual.](https://github.com/egzumer/uv-k5-firmware-custom?tab=readme-ov-file#manual)
 + [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
 + [Amateur Radio Emergency Radio Network (AREDN)](https://github.com/aredn/aredn) is a project that is delivering quality, high-speed, data communications for Emcomm via Amateur using commercial off the shelf hardware.
-+ [Nicsure Firmware](https://nicsure.co.uk/h3h8/) is an alternative firmware for TIDRADIO TD-H3 and TIDRADIO TD-H8.
+
 + [Quansheng UV-k5 Web Flasher](https://k5.vicicode.com/#/chirp/base) is a firmware web flasher for Quansheng UV-K5.
 + [UVMod Web Flasher](https://whosmatt.github.io/uvmod/) is a firmware web flasher for Quansheng UV-K5.
 
@@ -153,7 +153,7 @@
 + [MMDVM](https://github.com/g4klx/MMDVM) Multi-Mode Digital Voice Modem
   + [MMDVM_HS_HAT](https://github.com/mathisschmieder/MMDVM_HS_Hat) for the Raspberry Pi (Zero)
 + [HPSDR](http://openhpsdr.org/) a hardware and software project intended as a "next generation" Software Defined Radio (SDR) for use by Radio Amateurs.
-+ [SM1000 FreeDV adapter](http://www.rowetel.com/wordpress/?page_id=3902) FreeDV in hardware. Purchasable on [tindie](https://www.tindie.com/products/edwin/sm1000-freedv-adapter/)
++ [SM1000 FreeDV adapter](http://www.rowetel.com/wordpress/?page_id=3902) FreeDV in hardware.
 + [Hermes Lite2](https://github.com/softerhardware/Hermes-Lite2) a low-cost software defined amateur radio HF transceiver based on a broadband modem chip and the Hermes SDR project.
 + [Mobilinkd TNCs](https://github.com/mobilinkd) have open firmware, unsure if hardware is open. [Homepage](http://www.mobilinkd.com/)
 + [QCX-SSB](https://github.com/threeme3/QCX-SSB)  This is a simple and experimental modification that transforms your QCX into a (class-E driven) SSB transceiver.
