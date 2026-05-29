@@ -37,12 +37,13 @@
 
 + [APRS Track Direct](https://github.com/qvarforth/trackdirect) APRS Track Direct is a collection of tools that can be used to run an APRS website.
 + [APRSdroid](https://github.com/ge0rg/aprsdroid) is an Android application that allows reporting your position via APRS with other amateur radio operators.
-
 + [APSD](https://repo.kc1awv.net/kc1awv/APSD) A modern APRS software platform. Cross-platform: Works on Linux, Windows, and Mac. Native `GPSd` integration.
++ [Direwolf](https://github.com/wb2osz/direwolf) Software TNC, APRS digipeater, and igate supporting a wide range of modems and soundcard interfaces.
 
 ### Networking
 
 + [HBLink3](https://github.com/n0mjs710/hblink3) Open Source HomeBrew Repeater Protocol Client/Master, can be used to create links between hotspots and repeaters.
++ [Pat](https://github.com/la5nta/pat) A cross-platform Winlink client for Linux, macOS, and Windows supporting Telnet, AX.25, and VARA.
 
 ### Firmware
 
@@ -64,6 +65,7 @@
 ### Decoding
 
 + [multimon-ng](https://github.com/EliasOenal/multimon-ng) decodes many paging, AFSK modes, and similar, including POCSAG, FLEX, EAS.
++ [rtl_433](https://github.com/merbanan/rtl_433) Decodes a wide range of ISM band sensors and devices via RTL-SDR and other backends.
 + [Codec2](https://github.com/drowe67/codec2) is a FOSS ultra-low bitrate voice codec that's competitive from 3200 bits/s down to 450 bits/s.
   + [FreeDV](https://freedv.org/), an HF digital voice mode based upon Codec2.
   + [PyCodec2](https://github.com/gregorias/pycodec2) is an easy Python wrapper for Codec2.
@@ -90,6 +92,7 @@
 + [SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
 + [SigDigger](https://github.com/BatchDrake/SigDigger) a free digital signal analyzer for GNU/Linux and macOS, built on top of Sigutils and Suscan.
 + [AetherSDR](https://github.com/aethersdr/AetherSDR) brings FlexRadio operation to Linux without Wine or virtual machines, built with Qt6 and C++20 using the SmartSDR protocol natively.
++ [FreqShow](https://github.com/adafruit/FreqShow) RTL-SDR spectrum analyzer display designed for the Raspberry Pi touchscreen.
 
 ### Logging
 
@@ -119,6 +122,7 @@
 + [MSHV](https://sourceforge.net/projects/mshv/) is an alternative to WSJT.
 + [fldigi](https://sourceforge.net/projects/fldigi/) is a modem program for most of the digital modes used by radio amateurs today.
 + [The WPSD Project](https://wpsd.radio/) WPSD is a next-generation, digital voice software suite for amateur radio use. It supports DMR, D-Star, Yaesu System Fusion (YSF/C4FM), P25, NXDN digital voice modes & POCSAG data/paging.
++ [JS8Call](http://js8call.com/) HF digital messaging built on the FT8 protocol, designed for keyboard-to-keyboard and emergency communications.
 
 ### Libraries
 
@@ -130,6 +134,8 @@
 
 + [CHIRP](https://chirp.danplanet.com/projects/chirp/wiki/Home) a free, open-source tool for programming your amateur radio.
 + [editcp](https://github.com/DaleFarnsworth/codeplug/tree/master/editcp) a codeplug editor  for the Tytera MD380 and MD390 as well as the Alinco DJ-MD40 radios.
++ [flrig](https://github.com/w1hkj/flrig) Rig control front-end for Hamlib, designed to work alongside fldigi.
++ [Grig](https://github.com/csete/grig) GTK+ graphical rig control application using Hamlib.
 + [QDMR](https://github.com/hmatuschek/qdmr) a GUI application and command line tool to program DMR radios.
 
 ### Satellite operation
@@ -137,6 +143,7 @@
 + [Gpredict](http://gpredict.oz9aec.net/) a real-time satellite tracking and orbit prediction application.
 + [gr-satellites](https://github.com/daniestevez/gr-satellites) GNU Radio decoders for several Amateur satellites.
 + [SatDump](https://www.satdump.org/) a generic satellite data processing software.
++ [SatNOGS](https://github.com/satnogs) Open source global network of satellite ground stations with scheduling and decoding infrastructure.
 
 ### Training
 
@@ -147,6 +154,7 @@
 
 + [NEC2++](https://github.com/tmolteno/necpp) Numerical Electromagnetic Code in C++.
 + [OpenEMS](https://www.openems.de/) a free and open-source electromagnetic field solver using the FDTD method.
++ [VOACAP](https://github.com/jawatson/voacapl) HF propagation prediction tool based on the ITU VOACAP engine.
 
 ## Hardware
 
