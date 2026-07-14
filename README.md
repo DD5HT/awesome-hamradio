@@ -123,6 +123,7 @@
 + [fldigi](https://sourceforge.net/projects/fldigi/) is a modem program for most of the digital modes used by radio amateurs today.
 + [The WPSD Project](https://wpsd.radio/) WPSD is a next-generation, digital voice software suite for amateur radio use. It supports DMR, D-Star, Yaesu System Fusion (YSF/C4FM), P25, NXDN digital voice modes & POCSAG data/paging.
 + [JS8Call](http://js8call.com/) HF digital messaging built on the FT8 protocol, designed for keyboard-to-keyboard and emergency communications.
++ [FT8Web](https://github.com/ok1cdj/FT8web) - Free, open-source FT8/FT4 client running entirely in the browser. Installable PWA with offline support, CAT control via WebSerial/WebUSB.
 
 ### Libraries
 
