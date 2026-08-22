@@ -124,6 +124,7 @@
 + [The WPSD Project](https://wpsd.radio/) WPSD is a next-generation, digital voice software suite for amateur radio use. It supports DMR, D-Star, Yaesu System Fusion (YSF/C4FM), P25, NXDN digital voice modes & POCSAG data/paging.
 + [JS8Call](http://js8call.com/) HF digital messaging built on the FT8 protocol, designed for keyboard-to-keyboard and emergency communications.
 + [FT8Web](https://github.com/ok1cdj/FT8web) - Free, open-source FT8/FT4 client running entirely in the browser. Installable PWA with offline support, CAT control via WebSerial/WebUSB.
++ [Pancetta](https://github.com/HagaleTechnologies/pancetta) A Rust-native TUI client for FT8/FT4/FT2 with multi-stream TX and CAT rig control, exposing a WebSocket backend for remote web-based operation.
 
 ### Libraries
 
