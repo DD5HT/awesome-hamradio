@@ -44,6 +44,7 @@
 
 + [HBLink3](https://github.com/n0mjs710/hblink3) Open Source HomeBrew Repeater Protocol Client/Master, can be used to create links between hotspots and repeaters.
 + [Pat](https://github.com/la5nta/pat) A cross-platform Winlink client for Linux, macOS, and Windows supporting Telnet, AX.25, and VARA.
++ [MeshSat](https://github.com/cubeos-app/meshsat) Gateway that links an AX.25 station to Meshtastic LoRa, Iridium satellite, cellular SMS and TAK over a Reticulum routing layer, running as a Docker container on a Raspberry Pi.
 
 ### Firmware
 
