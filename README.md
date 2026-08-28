@@ -147,6 +147,7 @@
 + [gr-satellites](https://github.com/daniestevez/gr-satellites) GNU Radio decoders for several Amateur satellites.
 + [SatDump](https://www.satdump.org/) a generic satellite data processing software.
 + [SatNOGS](https://github.com/satnogs) Open source global network of satellite ground stations with scheduling and decoding infrastructure.
++ [sstv](https://github.com/unexcellent/sstv) Rust crate for encoding and decoding all Dayton paper modes used on an actual satellite.
 
 ### Training
 
