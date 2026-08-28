@@ -89,7 +89,7 @@
 + [SDRangel](https://github.com/f4exb/sdrangel) SDR and signal analyzer frontend to various hardware.
 + [PyMultimonAPRS](https://github.com/asdil12/pymultimonaprs) can take an RTLSDR or audio input and Igate APRS traffic.
 + [OpenWebRX](https://github.com/jketterl/openwebrx) Open source, multi-user SDR receiver software with a web interface, forked and improved from [HA7ILM's](https://github.com/ha7ilm/openwebrx) excellent initial project.
-+ [Qradiolink](https://github.com/qradiolink/qradiolink) Multimode SDR transceiver for GNU Radio.
++ [Qradiolink](https://codeberg.org/qradiolink/qradiolink) Multimode SDR transceiver for GNU Radio.
 + [SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) SDR++ is a cross-platform and open source SDR software with the aim of being bloat free and simple to use.
 + [SigDigger](https://github.com/BatchDrake/SigDigger) a free digital signal analyzer for GNU/Linux and macOS, built on top of Sigutils and Suscan.
 + [AetherSDR](https://github.com/aethersdr/AetherSDR) brings FlexRadio operation to Linux without Wine or virtual machines, built with Qt6 and C++20 using the SmartSDR protocol natively.
