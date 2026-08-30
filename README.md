@@ -132,6 +132,7 @@
 + [Hamlib](https://github.com/Hamlib/Hamlib) libraries for amateur radio equipment control applications.
 + [pyhamtools](https://github.com/dh1tw/pyhamtools) is a set of functions and classes for Amateur Radio purposes.
 + [CSDR](https://github.com/ha7ilm/csdr) csdr is a command line tool to carry out DSP tasks for Software Defined Radio.
++ [fcc-uls-cli](https://github.com/isquividet/fcc-uls-cli) Zero-dependency Python CLI and library that lists the FCC ULS daily change feed, parses its pipe-delimited licence and application records, and searches it for a call sign.
 
 ### Radio programming
 
