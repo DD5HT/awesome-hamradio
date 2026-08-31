@@ -141,6 +141,7 @@
 + [flrig](https://github.com/w1hkj/flrig) Rig control front-end for Hamlib, designed to work alongside fldigi.
 + [Grig](https://github.com/fillods/grig) GTK+ graphical rig control application using Hamlib.
 + [QDMR](https://github.com/hmatuschek/qdmr) a GUI application and command line tool to program DMR radios.
++ [KrakenZumer Control](https://github.com/AmericanSquid/KrakenZumer-Control) Host-side daemon, command-line client, and terminal interface for controlling Quansheng UV-K5 radios over UART using headless firmware.
 
 ### Satellite operation
 
