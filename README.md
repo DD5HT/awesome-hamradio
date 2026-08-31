@@ -77,6 +77,9 @@
 
 + [UniPager](https://github.com/rwth-afu/UniPager) Universal POCSAG transmitter controller written in Rust.
 
+### Repeater Controllers
++ [KrakenRelay](https://github.com/AmericanSquid/KrakenRelay) Open-source Python repeater controller for audio routing, PTT control, CW identification, courtesy tones, crossband operation, and linked repeater systems.
+
 ### SDR
 
 + [GNU Radio](https://github.com/gnuradio/gnuradio) a software development toolkit that provides signal processing blocks to implement software radios.
