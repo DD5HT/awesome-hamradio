@@ -59,6 +59,7 @@
   + [egzumer Merged Firmware](https://github.com/egzumer/uv-k5-firmware-custom) Includes OneOfEleven and fagci mods. [Manual.](https://github.com/egzumer/uv-k5-firmware-custom?tab=readme-ov-file#manual)
 + [K3ng CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) is an open source Arduino based CW Keyer.
 + [Amateur Radio Emergency Radio Network (AREDN)](https://github.com/aredn/aredn) is a project that is delivering quality, high-speed, data communications for Emcomm via Amateur using commercial off the shelf hardware.
++ [Quansheng UV-K5 Headless](https://github.com/AmericanSquid/Quansheng_UV-K5_Headless) EgZumer-based firmware fork for the Quansheng UV-K5/K6/5R adding headless UART control, software PTT, status queries, and external-controller integration.
 
 + [Quansheng UV-k5 Web Flasher](https://k5.vicicode.com/#/chirp/base) is a firmware web flasher for Quansheng UV-K5.
 + [UVMod Web Flasher](https://whosmatt.github.io/uvmod/) is a firmware web flasher for Quansheng UV-K5.
@@ -75,6 +76,9 @@
 ### POCSAG
 
 + [UniPager](https://github.com/rwth-afu/UniPager) Universal POCSAG transmitter controller written in Rust.
+
+### Repeater Controllers
++ [KrakenRelay](https://github.com/AmericanSquid/KrakenRelay) Open-source Python repeater controller for audio routing, PTT control, CW identification, courtesy tones, crossband operation, and linked repeater systems.
 
 ### SDR
 
@@ -140,6 +144,7 @@
 + [flrig](https://github.com/w1hkj/flrig) Rig control front-end for Hamlib, designed to work alongside fldigi.
 + [Grig](https://github.com/fillods/grig) GTK+ graphical rig control application using Hamlib.
 + [QDMR](https://github.com/hmatuschek/qdmr) a GUI application and command line tool to program DMR radios.
++ [KrakenZumer Control](https://github.com/AmericanSquid/KrakenZumer-Control) Host-side daemon, command-line client, and terminal interface for controlling Quansheng UV-K5 radios over UART using headless firmware.
 
 ### Satellite operation
 
