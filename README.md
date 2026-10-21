@@ -153,6 +153,7 @@
 
 + [AFU Group Trainer](https://github.com/ccoors/afu-group-trainer) A tool that eases the collaborative learning for the (German) HAM exam by allowing each student to answer the questions during a learning session instead of just one person answering. (Currently only in German.)
 + [MorseRunner-CE](https://github.com/w7sst/MorseRunner) An effective practice tool for improving CW copying and pileup handling skills.
++ [Online Morse Code](https://onlinemorsecode.com/) Free browser-based Morse code translator with adjustable-speed CW audio, WAV download, audio decoding, printable chart and learning guides.
 
 ### Simulation
 
