@@ -21,6 +21,7 @@
   - [Satellite operation](#satellite-operation)
   - [Training](#training)
   - [Simulation](#simulation)
+  - [Web tools](#web-tools)
 - [Hardware](#hardware)
 - [Contributing](#contributing)
 
@@ -160,6 +161,9 @@
 + [NEC2++](https://github.com/tmolteno/necpp) Numerical Electromagnetic Code in C++.
 + [OpenEMS](https://www.openems.de/) a free and open-source electromagnetic field solver using the FDTD method.
 + [VOACAP](https://github.com/jawatson/voacapl) HF propagation prediction tool based on the ITU VOACAP engine.
+
+### Web tools
++ [Name](https://KF0ZFX.com) Collection of open source tools for ham operators.
 
 ## Hardware
 
