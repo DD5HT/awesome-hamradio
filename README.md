@@ -163,7 +163,7 @@
 + [VOACAP](https://github.com/jawatson/voacapl) HF propagation prediction tool based on the ITU VOACAP engine.
 
 ### Web tools
-+ [Name](https://KF0ZFX.com) Collection of open source tools for ham operators.
++ [KF0ZFX.com](https://KF0ZFX.com) Collection of open source tools for ham operators.
 
 ## Hardware
 
