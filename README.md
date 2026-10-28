@@ -21,6 +21,7 @@
   - [Satellite operation](#satellite-operation)
   - [Training](#training)
   - [Simulation](#simulation)
+  - [Web tools](#web-tools)
 - [Hardware](#hardware)
 - [Contributing](#contributing)
 
@@ -161,6 +162,9 @@
 + [OpenEMS](https://www.openems.de/) a free and open-source electromagnetic field solver using the FDTD method.
 + [VOACAP](https://github.com/jawatson/voacapl) HF propagation prediction tool based on the ITU VOACAP engine.
 + [Radiopath](https://radiopath.org) Greenfield reimplementation of Radio Mobile Online for radio path simulations and hf prediction.
+
+### Web tools
++ [KF0ZFX.com](https://KF0ZFX.com) Collection of open source tools for ham operators.
 
 ## Hardware
 
